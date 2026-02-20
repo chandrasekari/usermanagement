@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# User Management App A simple **User Management System** built with **React**, **Redux Toolkit (Thunk)**, and **Material UI**. This project demonstrates CRUD operations (Create, Read, Update, Delete) with a static Redux store, styled UI components, and modern React features. --- ## 🚀 Features - Add new users with success alerts - Edit existing users with confirmation and success alerts - Delete users with confirmation dialogs and success alerts - Navigation between pages using React Router - Clean UI with Material UI components --- ## 🛠️ Tech Stack - **React** (functional components, hooks) - **Redux Toolkit** (state management with Thunk middleware) - **Material UI (MUI)** (UI components and styling) - **React Router** (navigation between Add, Edit, and Manage pages) --- #
 
 ## Available Scripts
 
